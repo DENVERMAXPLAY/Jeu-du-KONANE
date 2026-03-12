@@ -5,7 +5,7 @@
 #include "menu.h"
 #include "jeu.h"
 
-// Ajoutez ces deux lignes :
+////
 #include "menu.c"
 #include "jeu.c"
 
